@@ -1,0 +1,13 @@
+.container{
+  background-color:rgb(180, 168, 168);
+  display:flex;
+  /* width:auto; */
+  height :auto;
+  margin:10px;
+}
+.item-box{
+  background-color:rgb(50, 173, 39);
+  width:100px;
+  height :100px;
+  margin:10px;
+}
